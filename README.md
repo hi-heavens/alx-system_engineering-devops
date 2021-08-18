@@ -1,0 +1,1 @@
+*To become a devops engineer, knowing the terminal and scripting is paramount*
