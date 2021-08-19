@@ -11,3 +11,7 @@
 5. A script that adds execute permission to the owner of the file 'hello'.
 
 6. A script that adds execute permission to the owner and the group owner, and read permission to other users, to the file 'hello'.
+
+7. A script that adds execution permission to the owner, the group owner and the other users, to the file 'hello'.
+
+8. A script that sets the permission to the file hello - owner with no permission, group with no permision and other users with all permissions.
